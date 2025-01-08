@@ -1,25 +1,23 @@
 # BASICS  
 ### Github Organization  
 :white_check_mark: Github Organization exists  
-:no_entry: Github Organization **not** assigned (or not public):  
-1. Goto https://github.com/orgs/MarcoL95-news/people  
-2. Check if KMicha is listed as Members  
-3. Else: 'Invite member' KMicha  
+:white_check_mark: Github Organization assigned  
 
 ---
   
 ### NewsAPI  
-:no_entry: NewsAPI key **missing**:  
-1. Please register at https://newsapi.org/register  
-2. Login and get your API key at https://newsapi.org/account  
-3. Assign the API key as new organization secret at https://github.com/organizations/MarcoL95-news/settings/secrets/actions/new  
-   * Name:  **NEWSAPI_KEY**   
-   * Value: **Your key here**   
+:white_check_mark: NewsAPI key exists  
+:white_check_mark: NewsAPI respone fine  
+:white_check_mark: NewsAPI status fine  
+:white_check_mark: NewsAPI results found  
 
 ---
   
 ### GeonamesAPI  
-:no_entry: Geonames key **missing**:  
+:white_check_mark: Geonames key exists  
+:white_check_mark: Geonames respone fine  
+:no_entry: Geonames status **failed**:  
+Please recheck the API key and its assignment:  
 1. Please register with username (i.e.: MarcoL95_news) at https://www.geonames.org/login  
 2. Assign the choosen username as new organization secret at https://github.com/organizations/MarcoL95-news/settings/secrets/actions/new  
    * Name:  **GEONAMES_KEY**   
