@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.7
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.7
 'Erdbeben verwerfung',de,Causes,#679e2c,#7db344,1,0.7
-'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.7
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.7
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.7
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.6681326581818181
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,2,0.6363149263636363
+'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.6174786764285713
