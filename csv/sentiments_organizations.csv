@@ -1,5 +1,11 @@
 ,phrase,label,sentiment,subjectivity,language,count
-US-Erdbebenwarte,US-Erdbebenwarte,ORG,0.0,0.0,de,1
-USGS,USGS,ORG,0.0,0.0,de,1
+US-Erdbebenwarte,US-Erdbebenwarte,ORG,0.0,0.0,de,2
+USGS,USGS,ORG,0.0,0.0,de,2
+Rettungsdienste,Rettungsdienste,ORG,0.0,0.5,de,2
+CSU,CSU,ORG,0.7,0.0,de,2
+Leichtes Erdbeben bei Aachen,Leichtes Erdbeben bei Aachen,ORG,0.0,0.0,de,1
+lnw,lnw,ORG,0.0,0.0,de,1
+bso,bso,ORG,0.0,0.0,de,1
+Grüne,Grüne,ORG,0.7,0.0,de,1
 hö…,hö…,ORG,0.0,0.0,de,1
 Sächsische Landesamt für Umwe,Sächsische Landesamt für Umwe,ORG,0.0,0.0,de,1

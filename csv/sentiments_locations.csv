@@ -1,51 +1,91 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Tibet,Tibet,LOC,-0.01578947368421053,0.0,de,19
-Vanuatu,Vanuatu,LOC,0.12352941176470586,0.0,de,17
-Erde,Erde,LOC,-0.10625,0.0,de,8
+Vanuatu,Vanuatu,LOC,0.13157894736842107,0.0,de,38
+Tibet,Tibet,LOC,0.05833333333333332,0.027777777777777776,de,36
+Erdbeben in Tibet,Erdbeben in Tibet,LOC,0.13999999999999999,0.0,de,15
+Xinhua,Xinhua,LOC,-0.21428571428571427,0.0,de,14
+Erde,Erde,LOC,-0.12916666666666665,0.0,de,12
+Südpazifik,Südpazifik,LOC,-0.27,0.0,de,10
+Nepal,Nepal,LOC,0.0875,0.0,de,8
+Mount Everest,Mount Everest,LOC,-0.11666666666666667,0.047619047619047616,de,7
 Tibets,Tibets,LOC,0.39999999999999997,0.0,de,7
-Xinhua,Xinhua,LOC,-0.16666666666666666,0.0,de,6
+Aachen,Aachen,LOC,-0.14166666666666666,0.0,de,6
 Shigatse,Shigatse,LOC,-0.5,0.0,de,6
+Chinas,Chinas,LOC,-0.2833333333333333,0.0,de,6
 Vogtland,Vogtland,LOC,-0.11666666666666665,0.0,de,6
-Chinas,Chinas,LOC,-0.13999999999999999,0.0,de,5
-Nepal,Nepal,LOC,0.0,0.0,de,4
+Erdbeben im Pazifik,Erdbeben im Pazifik,LOC,0.0,0.0,de,4
+Provinz Udine,Provinz Udine,LOC,0.35,0.0,de,4
 Klingenthal,Klingenthal,LOC,0.0,0.0,de,4
-Erdbeben in Tibet,Erdbeben in Tibet,LOC,0.4666666666666666,0.0,de,3
+Erdbeben in Vanuatu,Erdbeben in Vanuatu,LOC,0.0,0.0,de,4
+Österreich,Österreich,LOC,0.175,0.0,de,4
+Himalaya,Himalaya,LOC,0.2333333333333333,0.3333333333333333,de,3
+Venetien,Venetien,LOC,0.4666666666666666,0.0,de,3
 Stadt,Stadt,LOC,-1.0,0.0,de,3
-Erdbeben in Vanuatu,Erdbeben in Vanuatu,LOC,0.0,0.0,de,3
-Stadt Shigatse,Stadt Shigatse,LOC,0.0,0.0,de,3
 Sachsen,Sachsen,LOC,0.0,0.0,de,3
-Südpazifik,Südpazifik,LOC,-0.4666666666666666,0.0,de,3
-Nachbarstaaten,Nachbarstaaten,LOC,0.0,0.0,de,2
-Erdstoß,Erdstoß,LOC,-1.0,0.0,de,2
+Erdbeben am Mount Everest,Erdbeben am Mount Everest,LOC,0.0,0.3333333333333333,de,3
+Erdbeben in Türkei,Erdbeben in Türkei,LOC,0.0,0.0,de,3
+Stadt Shigatse,Stadt Shigatse,LOC,0.0,0.0,de,3
+Kathmandu,Kathmandu,LOC,0.0,0.0,de,3
 Kerkrade,Kerkrade,LOC,-0.07500000000000001,0.0,de,2
-Kathmandu,Kathmandu,LOC,0.0,0.0,de,2
-Aachen,Aachen,LOC,-0.07500000000000001,0.0,de,2
+Ampezzo,Ampezzo,LOC,0.35,0.0,de,2
+Erdstoß,Erdstoß,LOC,-1.0,0.0,de,2
 Vogtlandkreis,Vogtlandkreis,LOC,0.0,0.0,de,2
-Mehrstöckige Gebäude,Mehrstöckige Gebäude,LOC,0.0,0.0,de,2
-Indonesien,Indonesien,LOC,0.0,0.0,de,2
+Berlin,Berlin,LOC,0.0,0.0,de,2
+Nachbarstaaten,Nachbarstaaten,LOC,0.0,0.0,de,2
+Tingri,Tingri,LOC,0.0,0.0,de,2
+Indien,Indien,LOC,0.35,0.0,de,2
+Peking,Peking,LOC,0.0,0.0,de,2
+Friaul,Friaul,LOC,0.7,0.0,de,2
+Erdbeben,Erdbeben,LOC,1.0,0.0,de,2
+Erdbeben im Südpazifik,Erdbeben im Südpazifik,LOC,0.0,0.0,de,2
 Port Vila,Port Vila,LOC,0.0,0.0,de,2
-Erdbebenzentrum,Erdbebenzentrum,LOC,0.0,0.0,de,1
-Erdbeben-Serie,Erdbeben-Serie,LOC,0.0,0.0,de,1
-Neujahr,Neujahr,LOC,0.0,0.0,de,1
-Mount Everest,Mount Everest,LOC,-0.6666666666666666,0.3333333333333333,de,1
+Erdbeben auf Vanuatu,Erdbeben auf Vanuatu,LOC,0.0,0.0,de,2
+Zehntausende,Zehntausende,LOC,0.0,0.0,de,2
+Indonesien,Indonesien,LOC,0.0,0.0,de,2
+Australien,Australien,LOC,0.35,0.0,de,2
+nan,nan,LOC,-0.15000000000000002,0.0,de,2
+Mehrstöckige Gebäude,Mehrstöckige Gebäude,LOC,0.0,0.0,de,2
+Syrien,Syrien,LOC,0.0,0.0,de,2
+Brandenburg,Brandenburg,LOC,0.0,0.0,de,1
+unterschiedli,unterschiedli,LOC,0.0,0.0,de,1
+Norditalien,Norditalien,LOC,0.7,0.0,de,1
+Lhasa,Lhasa,LOC,0.0,0.0,de,1
+Nordindien,Nordindien,LOC,0.0,0.0,de,1
 Himalaja,Himalaja,LOC,0.0,0.0,de,1
-Südwest… Bei,Südwest… Bei,LOC,0.0,0.0,de,1
-Frankreich,Frankreich,LOC,0.0,0.0,de,1
 Pazifik,Pazifik,LOC,0.0,0.0,de,1
+W…,W…,LOC,0.0,0.0,de,1
+Himalaya-Gebirges,Himalaya-Gebirges,LOC,0.0,1.0,de,1
+Everest,Everest,LOC,0.0,0.0,de,1
+Tel Aviv,Tel Aviv,LOC,0.0,0.0,de,1
+Erdbeben wu… [+611 chars,Erdbeben wu… [+611 chars,LOC,0.0,0.0,de,1
+Erdbeben in der Region Shigatse,Erdbeben in der Region Shigatse,LOC,-1.0,0.0,de,1
+Erdbebens,Erdbebens,LOC,-0.7,0.0,de,1
+Frankreich,Frankreich,LOC,0.0,0.0,de,1
+Neujahr,Neujahr,LOC,0.0,0.0,de,1
+Erdbeben-Serie,Erdbeben-Serie,LOC,0.0,0.0,de,1
+Kärntens,Kärntens,LOC,0.0,0.0,de,1
+Südwest… Bei,Südwest… Bei,LOC,0.0,0.0,de,1
 Schweres Erdbeben in Tibet,Schweres Erdbeben in Tibet,LOC,0.7,0.0,de,1
-Österreich,Österreich,LOC,0.7,0.0,de,1
 Taiwan,Taiwan,LOC,0.0,0.0,de,1
 Banda Aceh,Banda Aceh,LOC,0.7,0.0,de,1
 Baiturrahman-Moschee,Baiturrahman-Moschee,LOC,0.7,0.0,de,1
-Ta…,Ta…,LOC,0.0,0.0,de,1
-Sydney,Sydney,LOC,0.0,0.0,de,1
-Erdbeben im Pazifik,Erdbeben im Pazifik,LOC,0.0,0.0,de,1
-Vanuatus,Vanuatus,LOC,0.0,0.0,de,1
-Tsunami,Tsunami,LOC,0.0,0.0,de,1
-Indischen Ozean,Indischen Ozean,LOC,0.0,0.0,de,1
-nan,nan,LOC,0.7,0.0,de,1
+Sumatra,Sumatra,LOC,0.0,0.0,de,1
+Provinz Aceh,Provinz Aceh,LOC,0.0,0.0,de,1
+Niederlanden,Niederlanden,LOC,0.0,0.0,de,1
 Schweres Erdbeben erschüttert Tibet,Schweres Erdbeben erschüttert Tibet,LOC,0.7,0.0,de,1
 Sumatras,Sumatras,LOC,0.0,0.0,de,1
-Provinz Aceh,Provinz Aceh,LOC,0.0,0.0,de,1
-Sumatra,Sumatra,LOC,0.0,0.0,de,1
+Indischen Ozean,Indischen Ozean,LOC,0.0,0.0,de,1
+Boden-Boden-Raketen,Boden-Boden-Raketen,LOC,0.0,0.0,de,1
+Tsunami,Tsunami,LOC,0.0,0.0,de,1
+Vanuatus,Vanuatus,LOC,0.0,0.0,de,1
+Südsee-Beben,Südsee-Beben,LOC,0.0,0.0,de,1
+Südpazifik s,Südpazifik s,LOC,0.0,0.0,de,1
+Auswärtiges Amt,Auswärtiges Amt,LOC,0.0,0.0,de,1
+Neuseeland,Neuseeland,LOC,0.0,0.0,de,1
+Sydney,Sydney,LOC,0.0,0.0,de,1
+Everest-Region,Everest-Region,LOC,0.0,0.0,de,1
+Erdstössen,Erdstössen,LOC,0.0,0.0,de,1
+Region Shigatse,Region Shigatse,LOC,0.0,0.0,de,1
+Erdbebenzentrum,Erdbebenzentrum,LOC,0.0,0.0,de,1
+Ta…,Ta…,LOC,0.0,0.0,de,1
 Taiwans,Taiwans,LOC,0.0,0.0,de,1
+Israel,Israel,LOC,0.0,0.0,de,1

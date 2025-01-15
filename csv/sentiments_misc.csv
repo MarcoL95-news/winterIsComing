@@ -1,33 +1,63 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Erdbeben in Tibet,Erdbeben in Tibet,MISC,0.0,0.0,de,11
-chinesische,chinesische,MISC,,,de,6
-Erdbeben in Vanuatu,Erdbeben in Vanuatu,MISC,-0.9500000000000001,0.0,de,5
-"Erdbeben der Stärke 7,4","Erdbeben der Stärke 7,4",MISC,,,de,4
+chinesischen,chinesischen,MISC,,,de,14
+Erdbeben in Tibet,Erdbeben in Tibet,MISC,0.0,0.06666666666666667,de,14
+chinesische,chinesische,MISC,,,de,8
+Erdbeben in Vanuatu,Erdbeben in Vanuatu,MISC,-0.7125,0.0,de,5
+"Erdbeben der Stärke 4,0","Erdbeben der Stärke 4,0",MISC,,,de,4
 chinesischer,chinesischer,MISC,,,de,4
-chinesischen,chinesischen,MISC,,,de,3
-Nothelfern ke…,Nothelfern ke…,MISC,,,de,2
-Erdbeben erschüttert Tibet,Erdbeben erschüttert Tibet,MISC,,,de,2
+"Erdbeben der Stärke 7,4","Erdbeben der Stärke 7,4",MISC,,,de,4
+israelischer,israelischer,MISC,,,de,2
+Pazifik-Staat Vanuatu,Pazifik-Staat Vanuatu,MISC,,,de,2
 "Erdbeben der Stärke 6,8","Erdbeben der Stärke 6,8",MISC,,,de,2
-"Erdbeben der Stärke 2,4","Erdbeben der Stärke 2,4",MISC,,,de,2
-Schweres Erdbeben,Schweres Erdbeben,MISC,,,de,2
+Erdbeben die Türkei,Erdbeben die Türkei,MISC,,,de,2
+Nothelfern ke…,Nothelfern ke…,MISC,,,de,2
+deutscher,deutscher,MISC,,,de,2
+Erdbebens in Tibet,Erdbebens in Tibet,MISC,,,de,2
+Ein heftiges Erdbeben erschüttert den Inselstaat,Ein heftiges Erdbeben erschüttert den Inselstaat,MISC,,,de,2
+Link,Link,MISC,,,de,2
 Internet,Internet,MISC,,,de,2
-Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,1
-Erdbeben i…,Erdbeben i…,MISC,,,de,1
-Erdbeben in Tibet - News,Erdbeben in Tibet - News,MISC,,,de,1
+Schweres Erdbeben,Schweres Erdbeben,MISC,,,de,2
+Erdbeben erschüttert Tibet,Erdbeben erschüttert Tibet,MISC,,,de,2
+Tsunami-Warnung,Tsunami-Warnung,MISC,,,de,2
+"Erdbeben der Stärke 2,4","Erdbeben der Stärke 2,4",MISC,,,de,2
+SZ am Morgen,SZ am Morgen,MISC,,,de,1
+Trumps,Trumps,MISC,,,de,1
 Erdbeben in T…,Erdbeben in T…,MISC,,,de,1
-Ein schweres …,Ein schweres …,MISC,,,de,1
-Die Zahl der Todesopfer eines Erdbebens in Tibet,Die Zahl der Todesopfer eines Erdbebens in Tibet,MISC,,,de,1
+Tages,Tages,MISC,,,de,1
+Todesopfer nach dem schweren Erdbeben in der Mo…,Todesopfer nach dem schweren Erdbeben in der Mo…,MISC,,,de,1
+Wirtschaftsleis,Wirtschaftsleis,MISC,,,de,1
+D…,D…,MISC,,,de,1
+Erdbeben in Tibet - News,Erdbeben in Tibet - News,MISC,,,de,1
+Die Zahl der Todesopfer nach dem schweren Erdbeben in der Mount-Everest-Region,Die Zahl der Todesopfer nach dem schweren Erdbeben in der Mount-Everest-Region,MISC,,,de,1
 Todesopfer eines Erdbebens in Tibet,Todesopfer eines Erdbebens in Tibet,MISC,,,de,1
+Tote nach,Tote nach,MISC,,,de,1
+deutschen,deutschen,MISC,,,de,1
+deutsche,deutsche,MISC,,,de,1
+Chinesischen,Chinesischen,MISC,,,de,1
+Erdbeben-Verschüttete,Erdbeben-Verschüttete,MISC,,,de,1
+Erdbeben erwischt Bergsteiger,Erdbeben erwischt Bergsteiger,MISC,,,de,1
+Die Zahl der Todesopfer eines Erdbebens in Tibet,Die Zahl der Todesopfer eines Erdbebens in Tibet,MISC,,,de,1
+Todesopfer nach dem schweren Erdbeben in der Mount-Everest-Region,Todesopfer nach dem schweren Erdbeben in der Mount-Everest-Region,MISC,,,de,1
 Todesopfer durch Erdbeben in Tibet,Todesopfer durch Erdbeben in Tibet,MISC,,,de,1
-Tsunami-Warnung,Tsunami-Warnung,MISC,,,de,1
-Chinesische,Chinesische,MISC,,,de,1
-Ein heftiges Erdbeben erschüttert den Inselstaat,Ein heftiges Erdbeben erschüttert den Inselstaat,MISC,,,de,1
+Erdbeben in der Türkei,Erdbeben in der Türkei,MISC,,,de,1
+Ein schweres …,Ein schweres …,MISC,,,de,1
+Lesen Sie jetzt „Erhebliche Schäden,Lesen Sie jetzt „Erhebliche Schäden,MISC,,,de,1
+"Erdbeben der Stärke 7,3","Erdbeben der Stärke 7,3",MISC,,,de,1
 Erdbeben 1999,Erdbeben 1999,MISC,,,de,1
 japanischen,japanischen,MISC,,,de,1
-Zeugen das Beben,Zeugen das Beben,MISC,,,de,1
-Link,Link,MISC,,,de,1
-Erdbeben erschüttert NRW,Erdbeben erschüttert NRW,MISC,,,de,1
-Lesen Sie jetzt „Erde,Lesen Sie jetzt „Erde,MISC,,,de,1
-indonesischen,indonesischen,MISC,,,de,1
+Tote in Inselstaat,Tote in Inselstaat,MISC,,,de,1
+Tote und Verletzte,Tote und Verletzte,MISC,,,de,1
+Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,1
+Lesen Sie jetzt „Gericht,Lesen Sie jetzt „Gericht,MISC,,,de,1
 Tsunami-Katastrophe,Tsunami-Katastrophe,MISC,,,de,1
-Erdbebens in Tibet,Erdbebens in Tibet,MISC,,,de,1
+"Magnitude 6,8 erschüttert Tibet","Magnitude 6,8 erschüttert Tibet",MISC,,,de,1
+indonesischen,indonesischen,MISC,,,de,1
+Lesen Sie jetzt „Geologe,Lesen Sie jetzt „Geologe,MISC,,,de,1
+Lesen Sie jetzt „Erde,Lesen Sie jetzt „Erde,MISC,,,de,1
+Erdbeben erschüttert NRW,Erdbeben erschüttert NRW,MISC,,,de,1
+Zeugen das Beben,Zeugen das Beben,MISC,,,de,1
+Erdbeben in de…,Erdbeben in de…,MISC,,,de,1
+Chinesische,Chinesische,MISC,,,de,1
+Lesen Sie jetzt „Mindestens 32 Tote nach Erdbeben in Tibet,Lesen Sie jetzt „Mindestens 32 Tote nach Erdbeben in Tibet,MISC,,,de,1
+Erdbeben i…,Erdbeben i…,MISC,,,de,1
+Erdbeben der Stärke 4,Erdbeben der Stärke 4,MISC,,,de,1
