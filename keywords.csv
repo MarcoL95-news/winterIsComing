@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.434520628768421
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.4302734135874999
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.4298874999999999
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.4279258746481249
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.40183705345090615
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.3939588406116383
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.3671890825227273
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.3658824165493748
