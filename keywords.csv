@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.62650015
+'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.5712252475
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.5057499999999999
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.5052608771613637
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.4938469154178407
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.434520628768421
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.4306368249249999
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.4302734135874999
-'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.42314065092409076
+'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.4231406509240907
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.4192499301281066
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.4018370534509061
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.3696699196262499
