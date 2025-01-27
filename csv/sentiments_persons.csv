@@ -1,6 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Jost Kobusch,Jost Kobusch,PER,0.13999999999999999,0.0,de,5
 Tatjana Ohm,Tatjana Ohm,PER,0.0,0.0,de,2
+Fee-Alexandra Rodler,Fee-Alexandra Rodler,PER,0.0,0.0,de,1
 Charlie Hebdo,Charlie Hebdo,PER,0.0,0.0,de,1
 Benjamin Eyssel,Benjamin Eyssel,PER,0.0,0.0,de,1
 Profi-Bergsteiger Jost,Profi-Bergsteiger Jost,PER,0.0,0.0,de,1
