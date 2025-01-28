@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.434520628768421
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,2,0.4294723455871591
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.4231406509240907
-'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.4192499301281066
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.4091934399008847
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.4018370534509061
+'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.39972258302824537
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.3671890825227273
