@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.6580658590518749
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,2,0.6058746308644107
-'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.5875504288419087
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.5695194616823124
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.56559371875
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.5565543051555357
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.5365893241977597
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.5360324315493749
+'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.5301679395156224
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.5148874999999999
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.505491580375
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.4938469154178407
