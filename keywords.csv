@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.6580658590518749
-'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,2,0.6058746308644107
+'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.5149938412347491
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.439933975050037
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.4362705231051645
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.434520628768421
