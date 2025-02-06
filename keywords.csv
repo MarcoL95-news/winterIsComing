@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.4096969791671693
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.4068032182137946
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.4046939537925314
-'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,2,0.3998033151663457
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.3997225830282453
+'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,2,0.3883276673358383
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.3876757536945655
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.3664736577877597
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,2,0.3652020037490852
