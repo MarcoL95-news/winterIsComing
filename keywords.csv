@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.5744736280578366
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.4324715258817292
-'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.4283217312419555
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.4212353600939353
+'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.4053883379192985
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.4046939537925314
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.4019783550271799
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.3997225830282453
