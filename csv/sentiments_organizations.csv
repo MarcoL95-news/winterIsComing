@@ -1,23 +1,27 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Geosphere Austria,Geosphere Austria,ORG,-0.3333333333333333,0.0,de,3
 Union,Union,ORG,-0.8333333333333334,0.0,de,3
 Bundestag,Bundestag,ORG,-0.8333333333333334,0.0,de,3
 SPD,SPD,ORG,-0.8333333333333334,0.0,de,3
-Geosphere Austria,Geosphere Austria,ORG,-0.3333333333333333,0.0,de,3
-bso,bso,ORG,0.0,0.0,de,2
-INGV,INGV,ORG,0.0,0.0,de,2
-USGS,USGS,ORG,0.0,0.0,de,2
-CSU,CSU,ORG,0.7,0.0,de,2
 US-Erdbebenwarte,US-Erdbebenwarte,ORG,0.0,0.0,de,2
+INGV,INGV,ORG,0.0,0.0,de,2
+Zentrum,Zentrum,ORG,0.15000000000000002,0.0,de,2
+CNN,CNN,ORG,0.0,0.0,de,2
+THW,THW,ORG,-0.35,0.0,de,2
+USGS,USGS,ORG,0.0,0.0,de,2
+Militär,Militär,ORG,0.0,0.0,de,2
+CSU,CSU,ORG,0.7,0.0,de,2
+bso,bso,ORG,0.0,0.0,de,2
 Rettungsdienste,Rettungsdienste,ORG,0.0,0.5,de,2
+hö…,hö…,ORG,0.0,0.0,de,1
 Grüne,Grüne,ORG,0.7,0.0,de,1
-lnw,lnw,ORG,0.0,0.0,de,1
-Leichtes Erdbeben bei Aachen,Leichtes Erdbeben bei Aachen,ORG,0.0,0.0,de,1
-GeoSphere Austria,GeoSphere Austria,ORG,0.0,0.0,de,1
-ei…,ei…,ORG,0.0,0.0,de,1
 Sächsische Landesamt für Umwe,Sächsische Landesamt für Umwe,ORG,0.0,0.0,de,1
 Institut für Geophysik und Vulkanologie,Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1
 KI-Modell,KI-Modell,ORG,0.6999999999999998,0.0,de,1
 Die Börsenkurse vieler großer Techunternehmen,Die Börsenkurse vieler großer Techunternehmen,ORG,1.0,0.0,de,1
 Börsenliebling Nvidia,Börsenliebling Nvidia,ORG,0.0,0.0,de,1
+lnw,lnw,ORG,0.0,0.0,de,1
+Leichtes Erdbeben bei Aachen,Leichtes Erdbeben bei Aachen,ORG,0.0,0.0,de,1
+GeoSphere Austria,GeoSphere Austria,ORG,0.0,0.0,de,1
 Spürbares Erdbeben,Spürbares Erdbeben,ORG,0.0,0.0,de,1
-hö…,hö…,ORG,0.0,0.0,de,1
+ei…,ei…,ORG,0.0,0.0,de,1
