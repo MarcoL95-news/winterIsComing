@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.5744736280578366
-'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.4199192427321769
+'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.4164289858678049
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.3761836488212405
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.3676012619994698
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.3613727455078099
