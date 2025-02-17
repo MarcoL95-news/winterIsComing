@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.286215288199964
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,2,0.2813993229001431
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.2690673458251749
-'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.2568627519921048
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.2533548794795196
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.2361946269144125
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.2348456390048254
+'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.21893339919328908
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.2146704518301321
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.21331339706710484
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.2133133970671048
