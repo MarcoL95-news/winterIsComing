@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.2926495835071375
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.2885002666801879
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.2873264320612107
-'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.286215288199964
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,2,0.2813993229001431
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.2690673458251749
+'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.2597831449699694
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.2534205116889079
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.2348456390048254
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.218933399193289
