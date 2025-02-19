@@ -9,15 +9,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.308192821883871
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.29919028281637
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.2926495835071375
-'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.2885002666801879
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.2873264320612107
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,2,0.2813993229001431
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.2690673458251749
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.2597831449699694
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.2534205116889079
+'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.2453757366781597
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.2348456390048254
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.2153516475575916
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.2146704518301321
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.2133133970671048
-'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.18669344931429566
+'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.1866934493142956
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.171910743945663
