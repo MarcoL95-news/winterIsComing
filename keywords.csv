@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.2146704518301321
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.2139189731541016
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.2133133970671048
-'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.171910743945663
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.1592894919171512
+'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.14687420735381354
