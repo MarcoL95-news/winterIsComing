@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.4253506361646441
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.4134622975330887
+'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.36154834073994746
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.3308810524638817
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.3122704676269971
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.308192821883871
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.2139189731541016
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.2133133970671048
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.1592894919171512
-'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.14687420735381354
+'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.1468742073538135
