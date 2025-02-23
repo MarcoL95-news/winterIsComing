@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.2689571754576437
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.2597831449699694
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.2453757366781597
-'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.23989414365515457
+'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.2398941436551545
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.2284583190898436
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.2158574799355717
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.2153516475575916
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.2139189731541016
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.2133133970671048
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.1555044419472703
-'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.1468742073538135
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.1359961281295785
+'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.12559315125074147
