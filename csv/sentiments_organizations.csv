@@ -1,11 +1,11 @@
 ,phrase,label,sentiment,subjectivity,language,count
-"Zentrum des Bebens der Stärke 7,6","Zentrum des Bebens der Stärke 7,6",ORG,1.0,0.0,de,5
-Geosphere Austria,Geosphere Austria,ORG,-0.25,0.0,de,4
+"Zentrum des Bebens der Stärke 7,6","Zentrum des Bebens der Stärke 7,6",ORG,1.0,0.0,de,6
+Geosphere Austria,Geosphere Austria,ORG,-0.2,0.0,de,5
+Santorini,Santorini,ORG,0.175,0.0,de,4
 INGV,INGV,ORG,0.0,0.0,de,4
 Bundestag,Bundestag,ORG,-0.8333333333333334,0.0,de,3
 Union,Union,ORG,-0.8333333333333334,0.0,de,3
 SPD,SPD,ORG,-0.8333333333333334,0.0,de,3
-Santorini,Santorini,ORG,0.35,0.0,de,2
 USGS,USGS,ORG,0.0,0.0,de,2
 THW,THW,ORG,-0.35,0.0,de,2
 CNN,CNN,ORG,0.0,0.0,de,2
