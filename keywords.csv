@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.2499522659810668
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.2472004577753607
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.2453757366781597
-'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.2398941436551545
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.2396915769030091
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.2284583190898436
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.2158574799355717
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.2139189731541016
+'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.20436006710688132
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.181316387507039
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.1558690931103598
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.1359961281295785
