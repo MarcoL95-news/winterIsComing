@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.2681945913110968
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.25871547761443225
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.2499522659810668
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.2454275872520291
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.2397661315229915
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.1541189293809831
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.1330887891438058
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.1255931512507414
-'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.11619676891014173
+'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.1161967689101417
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.1127795020569027
