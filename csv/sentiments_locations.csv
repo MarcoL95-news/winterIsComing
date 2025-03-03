@@ -1,217 +1,222 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Santorini,Santorini,LOC,-0.08370370370370371,0.019444444444444445,de,90
-Erde,Erde,LOC,-0.012318840579710146,0.043478260869565216,de,69
+Santorini,Santorini,LOC,-0.07929824561403509,0.018421052631578946,de,95
+Erde,Erde,LOC,-0.011805555555555557,0.06944444444444445,de,72
 Tibet,Tibet,LOC,0.08333333333333331,0.023809523809523808,de,42
 Vanuatu,Vanuatu,LOC,0.13157894736842107,0.0,de,38
-Erdbeben,Erdbeben,LOC,0.312,0.04,de,25
-Insel Santorini,Insel Santorini,LOC,0.014583333333333328,0.020833333333333332,de,24
+Insel Santorini,Insel Santorini,LOC,0.013461538461538457,0.019230769230769232,de,26
+Erdbeben,Erdbeben,LOC,0.3,0.038461538461538464,de,26
 Türkei,Türkei,LOC,-0.14722222222222223,0.17361111111111108,de,24
-Ägäis,Ägäis,LOC,-0.07803030303030305,0.06818181818181818,de,22
-Santorin,Santorin,LOC,-0.07142857142857142,0.07142857142857142,de,21
+Ägäis,Ägäis,LOC,-0.07152777777777779,0.0625,de,24
+Santorin,Santorin,LOC,-0.06818181818181818,0.06818181818181818,de,22
+Berlin,Berlin,LOC,0.0,0.0,de,17
 Karibik,Karibik,LOC,0.4852941176470588,0.058823529411764705,de,17
 Dresden,Dresden,LOC,-0.0625,0.0,de,16
-Berlin,Berlin,LOC,0.0,0.0,de,16
-Ferieninsel Santorini,Ferieninsel Santorini,LOC,0.39888888888888896,0.0,de,15
-Italien,Italien,LOC,-0.04666666666666665,0.0,de,15
 Erdbeben in Tibet,Erdbeben in Tibet,LOC,0.13999999999999999,0.0,de,15
+Italien,Italien,LOC,-0.04666666666666665,0.0,de,15
+Ferieninsel Santorini,Ferieninsel Santorini,LOC,0.39888888888888896,0.0,de,15
 Xinhua,Xinhua,LOC,-0.21428571428571427,0.0,de,14
-Toskana,Toskana,LOC,0.06363636363636363,0.0,de,11
+Neapel,Neapel,LOC,0.0,0.0,de,13
+Athen,Athen,LOC,-0.08749999999999998,0.15277777777777776,de,12
 Mount Everest,Mount Everest,LOC,-0.010606060606060608,0.0303030303030303,de,11
-Athen,Athen,LOC,-0.09545454545454544,0.16666666666666666,de,11
-Neapel,Neapel,LOC,0.0,0.0,de,11
+Toskana,Toskana,LOC,0.06363636363636363,0.0,de,11
 Siena,Siena,LOC,0.0,0.0,de,10
-Südpazifik,Südpazifik,LOC,-0.27,0.0,de,10
+Griechenland,Griechenland,LOC,0.13999999999999999,0.0,de,10
 Stadt,Stadt,LOC,-0.2,0.0,de,10
+Südpazifik,Südpazifik,LOC,-0.27,0.0,de,10
 Nepal,Nepal,LOC,0.15555555555555556,0.0,de,9
-Griechenland,Griechenland,LOC,0.15555555555555556,0.0,de,9
 Japan,Japan,LOC,0.175,0.0,de,8
-Tibets,Tibets,LOC,0.39999999999999997,0.0,de,7
-Kaimaninseln,Kaimaninseln,LOC,0.24285714285714288,0.14285714285714285,de,7
-Portugal,Portugal,LOC,0.09999999999999999,0.42857142857142855,de,7
 Istanbul,Istanbul,LOC,-0.18571428571428572,0.0,de,7
-Chinas,Chinas,LOC,-0.2833333333333333,0.0,de,6
-Sachsen,Sachsen,LOC,-0.05000000000000001,0.0,de,6
-Mittelmeer,Mittelmeer,LOC,0.05833333333333333,0.08333333333333333,de,6
-Pirna,Pirna,LOC,0.11666666666666665,0.0,de,6
-Shigatse,Shigatse,LOC,-0.5,0.0,de,6
-Taiwan,Taiwan,LOC,0.4666666666666666,0.0,de,6
-Sizilien,Sizilien,LOC,0.11666666666666665,0.0,de,6
-Provinz Udine,Provinz Udine,LOC,0.2333333333333333,0.0,de,6
-Aachen,Aachen,LOC,-0.14166666666666666,0.0,de,6
+Portugal,Portugal,LOC,0.09999999999999999,0.42857142857142855,de,7
+Mittelmeer,Mittelmeer,LOC,0.049999999999999996,0.07142857142857142,de,7
+Kaimaninseln,Kaimaninseln,LOC,0.24285714285714288,0.14285714285714285,de,7
+Tibets,Tibets,LOC,0.39999999999999997,0.0,de,7
 Vogtland,Vogtland,LOC,-0.11666666666666665,0.0,de,6
+Aachen,Aachen,LOC,-0.14166666666666666,0.0,de,6
+Sachsen,Sachsen,LOC,-0.05000000000000001,0.0,de,6
+Provinz Udine,Provinz Udine,LOC,0.2333333333333333,0.0,de,6
+Shigatse,Shigatse,LOC,-0.5,0.0,de,6
+Chinas,Chinas,LOC,-0.2833333333333333,0.0,de,6
+Pirna,Pirna,LOC,0.11666666666666665,0.0,de,6
 Kroatien,Kroatien,LOC,0.7000000000000001,0.0,de,6
+Sizilien,Sizilien,LOC,0.11666666666666665,0.0,de,6
+Hessen,Hessen,LOC,-0.11666666666666665,0.8333333333333334,de,6
+Taiwan,Taiwan,LOC,0.4666666666666666,0.0,de,6
 Österreich,Österreich,LOC,0.13999999999999999,0.0,de,5
 Teneriffa,Teneriffa,LOC,0.0,0.0,de,5
-Erdbeben in Vanuatu,Erdbeben in Vanuatu,LOC,0.0,0.0,de,4
-nan,nan,LOC,-0.25,0.0,de,4
-Zehntausende,Zehntausende,LOC,0.0,0.0,de,4
-Erdbeben am Mount Everest,Erdbeben am Mount Everest,LOC,0.175,0.25,de,4
-Erdbeben im Pazifik,Erdbeben im Pazifik,LOC,0.0,0.0,de,4
-Los Angeles,Los Angeles,LOC,0.5,0.0,de,4
-Mexikos,Mexikos,LOC,0.5249999999999999,0.0,de,4
-Port Vila,Port Vila,LOC,0.0,0.0,de,4
-Angst,Angst,LOC,0.0,0.0,de,4
-Klingenthal,Klingenthal,LOC,0.0,0.0,de,4
 Ankara,Ankara,LOC,0.0,0.0,de,4
-Venetien,Venetien,LOC,0.35,0.0,de,4
+Erdbeben in Vanuatu,Erdbeben in Vanuatu,LOC,0.0,0.0,de,4
+Mittelmeerraum,Mittelmeerraum,LOC,0.0,0.0,de,4
 Syrien,Syrien,LOC,0.0,0.0,de,4
-Erdbeben in der Toskana,Erdbeben in der Toskana,LOC,0.0,0.0,de,3
-Himalaya,Himalaya,LOC,0.2333333333333333,0.3333333333333333,de,3
-Hilden,Hilden,LOC,-0.2333333333333333,0.0,de,3
-Syriens,Syriens,LOC,0.0,0.0,de,3
-Unterwasservulkan Kolumbo,Unterwasservulkan Kolumbo,LOC,-0.10000000000000002,0.26666666666666666,de,3
+Port Vila,Port Vila,LOC,0.0,0.0,de,4
+Erdbeben am Mount Everest,Erdbeben am Mount Everest,LOC,0.175,0.25,de,4
+Venetien,Venetien,LOC,0.35,0.0,de,4
+Angst,Angst,LOC,0.0,0.0,de,4
+Los Angeles,Los Angeles,LOC,0.5,0.0,de,4
+Zehntausende,Zehntausende,LOC,0.0,0.0,de,4
+Mexikos,Mexikos,LOC,0.5249999999999999,0.0,de,4
+Erdbeben im Pazifik,Erdbeben im Pazifik,LOC,0.0,0.0,de,4
+Klingenthal,Klingenthal,LOC,0.0,0.0,de,4
+nan,nan,LOC,-0.25,0.0,de,4
 Ampezzo,Ampezzo,LOC,0.2333333333333333,0.0,de,3
 Spaniens,Spaniens,LOC,0.2333333333333333,0.0,de,3
-Jamaika,Jamaika,LOC,0.6999999999999998,0.0,de,3
-Terfens,Terfens,LOC,-0.6666666666666666,0.0,de,3
-Erdstößen,Erdstößen,LOC,-0.05000000000000001,0.0,de,3
 Friaul,Friaul,LOC,0.4666666666666666,0.0,de,3
-Sächsischen Schweiz,Sächsischen Schweiz,LOC,0.0,0.0,de,3
-Land,Land,LOC,-0.35555555555555557,0.27777777777777773,de,3
-Kykladeninseln,Kykladeninseln,LOC,-0.17499999999999996,0.0,de,3
-Kalifornien,Kalifornien,LOC,0.0,0.0,de,3
-Italiens,Italiens,LOC,0.0,0.0,de,3
+Erdbeben in der Toskana,Erdbeben in der Toskana,LOC,0.0,0.0,de,3
 Kärntens,Kärntens,LOC,0.0,0.0,de,3
 Plündereien,Plündereien,LOC,0.0,0.0,de,3
-Wörgl,Wörgl,LOC,0.0,0.0,de,3
-Kathmandu,Kathmandu,LOC,0.0,0.0,de,3
-Lissabon,Lissabon,LOC,0.0,0.0,de,3
-Erdbeben in Türkei,Erdbeben in Türkei,LOC,0.0,0.0,de,3
-Amorgos,Amorgos,LOC,0.0,0.0,de,3
-Mittelmeerinsel,Mittelmeerinsel,LOC,-0.4666666666666666,0.3333333333333333,de,3
-Indien,Indien,LOC,0.4666666666666666,0.0,de,3
-Stadt Shigatse,Stadt Shigatse,LOC,0.0,0.0,de,3
-Hessen,Hessen,LOC,-0.2333333333333333,0.6666666666666666,de,3
 Baustellen,Baustellen,LOC,0.6999999999999998,0.0,de,3
-Nachbarstaaten,Nachbarstaaten,LOC,0.0,0.0,de,2
-Ägäischen Meeres,Ägäischen Meeres,LOC,-0.7,0.0,de,2
-Kolumbo,Kolumbo,LOC,0.0,0.0,de,2
-Containern,Containern,LOC,0.0,0.0,de,2
-Supervulkans,Supervulkans,LOC,0.0,0.0,de,2
-Waidring,Waidring,LOC,0.5,0.0,de,2
-Trauma-Expertin,Trauma-Expertin,LOC,0.0,1.0,de,2
-Ägäischen Meer,Ägäischen Meer,LOC,0.08750000000000002,0.0,de,2
+Italiens,Italiens,LOC,0.0,0.0,de,3
+Erdbeben-Serie,Erdbeben-Serie,LOC,0.0,0.0,de,3
+Hilden,Hilden,LOC,-0.2333333333333333,0.0,de,3
+Erdstößen,Erdstößen,LOC,-0.05000000000000001,0.0,de,3
+Sächsischen Schweiz,Sächsischen Schweiz,LOC,0.0,0.0,de,3
+Kalifornien,Kalifornien,LOC,0.0,0.0,de,3
+Kykladeninseln,Kykladeninseln,LOC,-0.17499999999999996,0.0,de,3
+Terfens,Terfens,LOC,-0.6666666666666666,0.0,de,3
+Land,Land,LOC,-0.35555555555555557,0.27777777777777773,de,3
+Unterwasservulkan Kolumbo,Unterwasservulkan Kolumbo,LOC,-0.10000000000000002,0.26666666666666666,de,3
+Mittelmeerinsel,Mittelmeerinsel,LOC,-0.4666666666666666,0.3333333333333333,de,3
+Himalaya,Himalaya,LOC,0.2333333333333333,0.3333333333333333,de,3
+Syriens,Syriens,LOC,0.0,0.0,de,3
+Amorgos,Amorgos,LOC,0.0,0.0,de,3
+Jamaika,Jamaika,LOC,0.6999999999999998,0.0,de,3
+Stadt Shigatse,Stadt Shigatse,LOC,0.0,0.0,de,3
+Erdbeben in Türkei,Erdbeben in Türkei,LOC,0.0,0.0,de,3
+Imst,Imst,LOC,0.0,0.0,de,3
+Wörgl,Wörgl,LOC,0.0,0.0,de,3
+Indien,Indien,LOC,0.4666666666666666,0.0,de,3
+Lissabon,Lissabon,LOC,0.0,0.0,de,3
+Kathmandu,Kathmandu,LOC,0.0,0.0,de,3
 Bewohner,Bewohner,LOC,-0.7,0.0,de,2
+Trauminsel,Trauminsel,LOC,-0.35,0.0,de,2
+Mega-Beben,Mega-Beben,LOC,0.0,0.0,de,2
+Äolischen Inseln,Äolischen Inseln,LOC,0.0,0.0,de,2
+Messina,Messina,LOC,0.0,0.0,de,2
+Palermo,Palermo,LOC,0.0,0.0,de,2
+Kerkrade,Kerkrade,LOC,-0.07500000000000001,0.0,de,2
+Trauma-Expertin,Trauma-Expertin,LOC,0.0,1.0,de,2
+Siziliens,Siziliens,LOC,0.35,0.0,de,2
+Griechenlands,Griechenlands,LOC,0.0,0.0,de,2
+italienischen Inseln,italienischen Inseln,LOC,0.0,0.0,de,2
 Behördenangaben,Behördenangaben,LOC,-1.0,0.0,de,2
 Nacht,Nacht,LOC,0.7,0.0,de,2
-Griechenlands,Griechenlands,LOC,0.0,0.0,de,2
-Altadena,Altadena,LOC,0.175,0.25,de,2
-Bayern,Bayern,LOC,0.0,0.5,de,2
-Honduras,Honduras,LOC,0.0,0.0,de,2
-Peking,Peking,LOC,0.0,0.0,de,2
-griechischen Insel,griechischen Insel,LOC,0.7,0.0,de,2
-Erdbeben auf Vanuatu,Erdbeben auf Vanuatu,LOC,0.0,0.0,de,2
-Äolischen Inseln,Äolischen Inseln,LOC,0.0,0.0,de,2
-Sorge,Sorge,LOC,-0.7,0.0,de,2
-Mega-Beben,Mega-Beben,LOC,0.0,0.0,de,2
-Portugals,Portugals,LOC,0.0,0.0,de,2
-Aufruhr,Aufruhr,LOC,0.0,0.0,de,2
-Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,2
-Insulaner,Insulaner,LOC,-0.7,0.0,de,2
-Schweiz,Schweiz,LOC,0.0,0.5,de,2
-Judenburg,Judenburg,LOC,0.0,0.0,de,2
-Australien,Australien,LOC,0.35,0.0,de,2
-Santorini-Archipels,Santorini-Archipels,LOC,-0.5249999999999999,0.25,de,2
-Elbtal,Elbtal,LOC,0.0,0.0,de,2
-Erdbeben im Südpazifik,Erdbeben im Südpazifik,LOC,0.0,0.0,de,2
-Mehrstöckige Gebäude,Mehrstöckige Gebäude,LOC,0.0,0.0,de,2
-Telfs,Telfs,LOC,0.0,0.0,de,2
-Indonesien,Indonesien,LOC,0.0,0.0,de,2
-Trauminsel,Trauminsel,LOC,-0.35,0.0,de,2
-Stadt Antakya,Stadt Antakya,LOC,0.0,0.0,de,2
-Tingri,Tingri,LOC,0.0,0.0,de,2
-Tirol,Tirol,LOC,0.5,0.0,de,2
-Mittelmeerraum,Mittelmeerraum,LOC,0.0,0.0,de,2
-Erdbeben-Serie,Erdbeben-Serie,LOC,0.0,0.0,de,2
-kroatischen Adriaküste,kroatischen Adriaküste,LOC,0.0,0.0,de,2
-Region Shigatse,Region Shigatse,LOC,-0.35,0.0,de,2
-Vogtlandkreis,Vogtlandkreis,LOC,0.0,0.0,de,2
-Bad Fischau-Brunn,Bad Fischau-Brunn,LOC,0.0,0.0,de,2
-Messina,Messina,LOC,0.0,0.0,de,2
-Mexiko City,Mexiko City,LOC,0.0,0.0,de,2
-George Town,George Town,LOC,1.0,0.0,de,2
-Hauptbeben,Hauptbeben,LOC,0.35,0.5,de,2
-GFZ,GFZ,LOC,0.0,0.0,de,2
-Erdbebens,Erdbebens,LOC,-0.35,0.0,de,2
-Kerkrade,Kerkrade,LOC,-0.07500000000000001,0.0,de,2
-italienische Inseln,italienische Inseln,LOC,0.35,0.0,de,2
 Stromboli,Stromboli,LOC,0.7,0.0,de,2
-Mallorca,Mallorca,LOC,0.35,0.0,de,2
-italienischen Inseln,italienischen Inseln,LOC,0.0,0.0,de,2
-Kuba,Kuba,LOC,0.7,0.0,de,2
-Miyazaki,Miyazaki,LOC,0.0,0.0,de,2
-Japans,Japans,LOC,0.0,0.0,de,2
-Kyushu,Kyushu,LOC,0.0,0.0,de,2
-Siziliens,Siziliens,LOC,0.35,0.0,de,2
-Mexiko,Mexiko,LOC,0.7,0.0,de,2
-Palermo,Palermo,LOC,0.0,0.0,de,2
+Tirol,Tirol,LOC,0.5,0.0,de,2
+Erdbeben auf Vanuatu,Erdbeben auf Vanuatu,LOC,0.0,0.0,de,2
+Telfs,Telfs,LOC,0.0,0.0,de,2
+Schweiz,Schweiz,LOC,0.0,0.5,de,2
+Portugals,Portugals,LOC,0.0,0.0,de,2
+griechischen Insel,griechischen Insel,LOC,0.7,0.0,de,2
+Ägäischen Meeres,Ägäischen Meeres,LOC,-0.7,0.0,de,2
+Altadena,Altadena,LOC,0.175,0.25,de,2
+Kolumbo,Kolumbo,LOC,0.0,0.0,de,2
+Santorini-Archipels,Santorini-Archipels,LOC,-0.5249999999999999,0.25,de,2
+Indonesien,Indonesien,LOC,0.0,0.0,de,2
+Waidring,Waidring,LOC,0.5,0.0,de,2
+Containern,Containern,LOC,0.0,0.0,de,2
+Judenburg,Judenburg,LOC,0.0,0.0,de,2
+Elbtal,Elbtal,LOC,0.0,0.0,de,2
+Erdbebenrisiko,Erdbebenrisiko,LOC,0.0,0.0,de,2
+Evakuierungen,Evakuierungen,LOC,0.0,0.0,de,2
+Mittelmeers,Mittelmeers,LOC,0.0,0.0,de,2
+Supervulkans,Supervulkans,LOC,0.0,0.0,de,2
+Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,2
+Bad Fischau-Brunn,Bad Fischau-Brunn,LOC,0.0,0.0,de,2
+Bayern,Bayern,LOC,0.0,0.5,de,2
+italienische Inseln,italienische Inseln,LOC,0.35,0.0,de,2
+Ägäischen Meer,Ägäischen Meer,LOC,0.08750000000000002,0.0,de,2
+Peking,Peking,LOC,0.0,0.0,de,2
+GFZ,GFZ,LOC,0.0,0.0,de,2
+Erdbeben im Südpazifik,Erdbeben im Südpazifik,LOC,0.0,0.0,de,2
+Mexiko City,Mexiko City,LOC,0.0,0.0,de,2
+Mini-Erdbeben,Mini-Erdbeben,LOC,0.0,1.0,de,2
 Erdstoß,Erdstoß,LOC,-1.0,0.0,de,2
-Wiesbaden,Wiesbaden,LOC,0.0,1.0,de,1
-Siders,Siders,LOC,0.0,1.0,de,1
-Bedrohlicher Bebenschwarm,Bedrohlicher Bebenschwarm,LOC,-0.6666666666666666,0.26666666666666666,de,1
-Äg,Äg,LOC,0.0,0.0,de,1
-Erdbeben von Santorin,Erdbeben von Santorin,LOC,0.0,0.0,de,1
-Befürchtungen,Befürchtungen,LOC,0.0,0.0,de,1
-Wackelnde Gebäude,Wackelnde Gebäude,LOC,0.0,0.0,de,1
-Beliebte Insel,Beliebte Insel,LOC,0.7,0.0,de,1
-Erdbeben auf Santorini,Erdbeben auf Santorini,LOC,0.7,0.0,de,1
-Risse,Risse,LOC,0.0,0.0,de,1
-Ferieninsel,Ferieninsel,LOC,0.0,0.0,de,1
+kroatischen Adriaküste,kroatischen Adriaküste,LOC,0.0,0.0,de,2
+Sorge,Sorge,LOC,-0.7,0.0,de,2
+Insulaner,Insulaner,LOC,-0.7,0.0,de,2
+Honduras,Honduras,LOC,0.0,0.0,de,2
+Erdbebens,Erdbebens,LOC,-0.35,0.0,de,2
+Stadt Antakya,Stadt Antakya,LOC,0.0,0.0,de,2
+Mehrstöckige Gebäude,Mehrstöckige Gebäude,LOC,0.0,0.0,de,2
+Schwarmbeben,Schwarmbeben,LOC,0.0,0.0,de,2
+Hauptbeben,Hauptbeben,LOC,0.35,0.5,de,2
+Tingri,Tingri,LOC,0.0,0.0,de,2
+Nachbarstaaten,Nachbarstaaten,LOC,0.0,0.0,de,2
+Vogtlandkreis,Vogtlandkreis,LOC,0.0,0.0,de,2
+Aufruhr,Aufruhr,LOC,0.0,0.0,de,2
+Australien,Australien,LOC,0.35,0.0,de,2
+Region Shigatse,Region Shigatse,LOC,-0.35,0.0,de,2
+Mexiko,Mexiko,LOC,0.7,0.0,de,2
+Kuba,Kuba,LOC,0.7,0.0,de,2
+Mallorca,Mallorca,LOC,0.35,0.0,de,2
+George Town,George Town,LOC,1.0,0.0,de,2
+Kyushu,Kyushu,LOC,0.0,0.0,de,2
+Japans,Japans,LOC,0.0,0.0,de,2
+Miyazaki,Miyazaki,LOC,0.0,0.0,de,2
+Fohnsdorf,Fohnsdorf,LOC,0.0,0.0,de,1
 Bricht,Bricht,LOC,-0.6666666666666666,0.26666666666666666,de,1
-Mini-Erdbeben,Mini-Erdbeben,LOC,0.0,1.0,de,1
-Satorini,Satorini,LOC,-0.7,0.0,de,1
-Israel,Israel,LOC,0.0,0.0,de,1
+Muss Santorini,Muss Santorini,LOC,-1.0,0.0,de,1
+Befürchtungen,Befürchtungen,LOC,0.0,0.0,de,1
+Kykladen,Kykladen,LOC,-0.7,0.0,de,1
+Österreichischen Erdbebendienst,Österreichischen Erdbebendienst,LOC,0.0,0.0,de,1
 Kanton Wallis,Kanton Wallis,LOC,0.0,1.0,de,1
+Satorini,Satorini,LOC,-0.7,0.0,de,1
+Erdbeben von Santorin,Erdbeben von Santorin,LOC,0.0,0.0,de,1
+Landeck,Landeck,LOC,0.0,0.0,de,1
+Siders,Siders,LOC,0.0,1.0,de,1
+Leichtes Erdbeben,Leichtes Erdbeben,LOC,0.0,0.0,de,1
+Syri,Syri,LOC,-1.0,0.0,de,1
+Wiesbaden,Wiesbaden,LOC,0.0,1.0,de,1
+Wackelnde Gebäude,Wackelnde Gebäude,LOC,0.0,0.0,de,1
+griechische Inseln,griechische Inseln,LOC,0.7,0.0,de,1
+Spürbares Erdbeben,Spürbares Erdbeben,LOC,0.0,0.0,de,1
+Oberland,Oberland,LOC,0.0,0.0,de,1
+Risse,Risse,LOC,0.0,0.0,de,1
+Privacy Center,Privacy Center,LOC,0.0,0.0,de,1
+Kopiere,Kopiere,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Übersee,Übersee,LOC,1.0,0.0,de,1
+Trauminsel Santorini,Trauminsel Santorini,LOC,0.0,0.0,de,1
+Insel Amorgos,Insel Amorgos,LOC,0.7,0.0,de,1
+Karibik-Region,Karibik-Region,LOC,0.0,0.0,de,1
+Tsunami-Warnungen,Tsunami-Warnungen,LOC,0.7,0.0,de,1
+Bedrohlicher Bebenschwarm,Bedrohlicher Bebenschwarm,LOC,-0.6666666666666666,0.26666666666666666,de,1
+Haiti,Haiti,LOC,0.7,0.0,de,1
+Cayman-Inseln,Cayman-Inseln,LOC,0.7,0.0,de,1
 Erdbeben in Kroatien,Erdbeben in Kroatien,LOC,0.0,0.0,de,1
+Erdbeben-Vorhersagen,Erdbeben-Vorhersagen,LOC,0.0,0.0,de,1
+Inter,Inter,LOC,-1.0,0.0,de,1
+Schweres Erdbeben in der Karibik,Schweres Erdbeben in der Karibik,LOC,0.0,0.0,de,1
+Schweres Erdbeben in Karibik,Schweres Erdbeben in Karibik,LOC,-1.0,0.0,de,1
 Kraterrand,Kraterrand,LOC,0.0,0.0,de,1
 So gefährlich,So gefährlich,LOC,-1.0,0.0,de,1
 Ägäis-Inseln,Ägäis-Inseln,LOC,0.0,0.0,de,1
 griechische Regierung,griechische Regierung,LOC,0.7,0.0,de,1
 bang,bang,LOC,-0.7,0.0,de,1
 Na…,Na…,LOC,-0.7,0.0,de,1
-Santorin-Serie,Santorin-Serie,LOC,0.0,0.0,de,1
-Privacy Center,Privacy Center,LOC,0.0,0.0,de,1
-Erdbeben-Vorhersagen,Erdbeben-Vorhersagen,LOC,0.0,0.0,de,1
-Insel Amorgos,Insel Amorgos,LOC,0.7,0.0,de,1
-Schweres Erdbeben in der Karibik,Schweres Erdbeben in der Karibik,LOC,0.0,0.0,de,1
+Erdbeben vor Sizilien,Erdbeben vor Sizilien,LOC,0.0,0.0,de,1
+Filicudi,Filicudi,LOC,0.0,0.0,de,1
 b…,b…,LOC,0.0,0.0,de,1
-Kykladeninsel,Kykladeninsel,LOC,0.0,0.0,de,1
-Erdbebenvorsorge,Erdbebenvorsorge,LOC,0.0,0.0,de,1
-Tokio,Tokio,LOC,0.0,0.0,de,1
-Japanerin,Japanerin,LOC,0.0,0.0,de,1
-Pozzuoli,Pozzuoli,LOC,0.7,0.0,de,1
-FOCUS-online-Redakteurin,FOCUS-online-Redakteurin,LOC,0.7,0.0,de,1
+Alicudi,Alicudi,LOC,0.0,0.0,de,1
 Phlegräischen Feldern,Phlegräischen Feldern,LOC,1.0,0.0,de,1
-Spürbares Erdbeben,Spürbares Erdbeben,LOC,0.0,0.0,de,1
-Schweres Erdbeben in Karibik,Schweres Erdbeben in Karibik,LOC,-1.0,0.0,de,1
-Übersee,Übersee,LOC,1.0,0.0,de,1
-Syri,Syri,LOC,-1.0,0.0,de,1
-Südtürkei,Südtürkei,LOC,-0.5,0.5,de,1
-Leichtes Erdbeben,Leichtes Erdbeben,LOC,0.0,0.0,de,1
-Fohnsdorf,Fohnsdorf,LOC,0.0,0.0,de,1
-Kykladen,Kykladen,LOC,-0.7,0.0,de,1
-Kopiere,Kopiere,LOC,-0.5666666666666667,0.3333333333333333,de,1
-Inter,Inter,LOC,-1.0,0.0,de,1
+FOCUS-online-Redakteurin,FOCUS-online-Redakteurin,LOC,0.7,0.0,de,1
 Afad,Afad,LOC,0.0,0.0,de,1
+Pozzuoli,Pozzuoli,LOC,0.7,0.0,de,1
 Vulkaninsel Santorini,Vulkaninsel Santorini,LOC,0.0,1.0,de,1
 türkischen Regierung,türkischen Regierung,LOC,0.0,0.0,de,1
+Artikelzusammenfassung,Artikelzusammenfassung,LOC,0.7,0.0,de,1
+Kahramanmara,Kahramanmara,LOC,0.7,0.0,de,1
+Santorin-Serie,Santorin-Serie,LOC,0.0,0.0,de,1
 Antakya,Antakya,LOC,0.0,0.0,de,1
+Tokio,Tokio,LOC,0.0,0.0,de,1
+Südtürkei,Südtürkei,LOC,-0.5,0.5,de,1
+Erdbebenvorsorge,Erdbebenvorsorge,LOC,0.0,0.0,de,1
 16-Millionen-Metropole Istanbul,16-Millionen-Metropole Istanbul,LOC,-1.0,0.0,de,1
-Cayman-Inseln,Cayman-Inseln,LOC,0.7,0.0,de,1
 Pico del Teide,Pico del Teide,LOC,0.0,0.0,de,1
 Erdbebenserie,Erdbebenserie,LOC,0.0,0.0,de,1
-Alicudi,Alicudi,LOC,0.0,0.0,de,1
-Filicudi,Filicudi,LOC,0.0,0.0,de,1
-Kykladen-Insel,Kykladen-Insel,LOC,0.0,1.0,de,1
-Trauminsel Santorini,Trauminsel Santorini,LOC,0.0,0.0,de,1
-Karibik-Region,Karibik-Region,LOC,0.0,0.0,de,1
-Tsunami-Warnungen,Tsunami-Warnungen,LOC,0.7,0.0,de,1
-Haiti,Haiti,LOC,0.7,0.0,de,1
-Erdbeben vor Sizilien,Erdbeben vor Sizilien,LOC,0.0,0.0,de,1
-Katastrophen-Einsätze,Katastrophen-Einsätze,LOC,0.0,0.0,de,1
-Atem,Atem,LOC,0.7,0.0,de,1
-Xizang,Xizang,LOC,0.7,0.0,de,1
-Everest-Region,Everest-Region,LOC,0.0,0.0,de,1
+Kykladeninsel,Kykladeninsel,LOC,0.0,0.0,de,1
+Japanerin,Japanerin,LOC,0.0,0.0,de,1
+Israel,Israel,LOC,0.0,0.0,de,1
+Ferieninsel,Ferieninsel,LOC,0.0,0.0,de,1
+Erdbeben auf Santorini,Erdbeben auf Santorini,LOC,0.7,0.0,de,1
 Erdstössen,Erdstössen,LOC,0.0,0.0,de,1
 Erdbebenzentrum,Erdbebenzentrum,LOC,0.0,0.0,de,1
 Schweres Erdbeben in Tibet,Schweres Erdbeben in Tibet,LOC,0.7,0.0,de,1
@@ -234,10 +239,13 @@ Erdbeben wu… [+611 chars,Erdbeben wu… [+611 chars,LOC,0.0,0.0,de,1
 Udine,Udine,LOC,0.0,0.0,de,1
 Osttirol,Osttirol,LOC,0.0,0.0,de,1
 Kärnten,Kärnten,LOC,0.0,0.0,de,1
+Cortina,Cortina,LOC,0.0,0.0,de,1
+Aquila,Aquila,LOC,0.7,0.0,de,1
+Norditalien,Norditalien,LOC,0.7,0.0,de,1
+Everest-Region,Everest-Region,LOC,0.0,0.0,de,1
 Schweres Erdbeben erschüttert Tibet,Schweres Erdbeben erschüttert Tibet,LOC,0.7,0.0,de,1
-Niederlanden,Niederlanden,LOC,0.0,0.0,de,1
-Schlimmes,Schlimmes,LOC,-1.0,0.0,de,1
-Spitze d… Im Jahr 2024,Spitze d… Im Jahr 2024,LOC,1.0,0.0,de,1
+Xizang,Xizang,LOC,0.7,0.0,de,1
+Bezirk Kitzbühel,Bezirk Kitzbühel,LOC,0.0,0.0,de,1
 Tel Aviv,Tel Aviv,LOC,0.0,0.0,de,1
 Pazifik,Pazifik,LOC,0.0,0.0,de,1
 Taiwans,Taiwans,LOC,0.0,0.0,de,1
@@ -249,8 +257,8 @@ Südpazifik s,Südpazifik s,LOC,0.0,0.0,de,1
 Südsee-Beben,Südsee-Beben,LOC,0.0,0.0,de,1
 Vanuatus,Vanuatus,LOC,0.0,0.0,de,1
 Erdbeben bei Waidring,Erdbeben bei Waidring,LOC,0.0,0.0,de,1
-Bezirk Kitzbühel,Bezirk Kitzbühel,LOC,0.0,0.0,de,1
 Mitternacht,Mitternacht,LOC,0.0,0.0,de,1
+Niederlanden,Niederlanden,LOC,0.0,0.0,de,1
 Tsunami,Tsunami,LOC,0.0,0.0,de,1
 Indischen Ozean,Indischen Ozean,LOC,0.0,0.0,de,1
 Sumatras,Sumatras,LOC,0.0,0.0,de,1
@@ -261,14 +269,11 @@ Banda Aceh,Banda Aceh,LOC,0.7,0.0,de,1
 Bezirk Wiener Neustadt,Bezirk Wiener Neustadt,LOC,0.0,0.0,de,1
 Beben am Sonntag,Beben am Sonntag,LOC,0.0,0.0,de,1
 Erdbeben in Tirol,Erdbeben in Tirol,LOC,0.0,0.0,de,1
-Cortina,Cortina,LOC,0.0,0.0,de,1
-Aquila,Aquila,LOC,0.7,0.0,de,1
-Norditalien,Norditalien,LOC,0.7,0.0,de,1
+Spitze d… Im Jahr 2024,Spitze d… Im Jahr 2024,LOC,1.0,0.0,de,1
 Tsunami-Alarm,Tsunami-Alarm,LOC,0.0,0.0,de,1
-Boden-Boden-Raketen,Boden-Boden-Raketen,LOC,0.0,0.0,de,1
-Einwoh,Einwoh,LOC,0.0,0.0,de,1
-Kykladen-Insel Santorini,Kykladen-Insel Santorini,LOC,0.7,0.0,de,1
-Vulkan,Vulkan,LOC,1.0,0.0,de,1
+Forschend,Forschend,LOC,0.0,0.0,de,1
+Japaner,Japaner,LOC,0.0,0.0,de,1
+Mo…,Mo…,LOC,0.0,0.0,de,1
 Grossbränden,Grossbränden,LOC,0.0,0.0,de,1
 Eaton-Feuer,Eaton-Feuer,LOC,0.0,0.0,de,1
 bebt,bebt,LOC,0.0,0.0,de,1
@@ -280,21 +285,23 @@ Fähren,Fähren,LOC,-0.35,0.5,de,1
 Piräus,Piräus,LOC,-0.35,0.5,de,1
 Kopf Santorini,Kopf Santorini,LOC,-0.7,0.0,de,1
 Griechenland u…,Griechenland u…,LOC,0.0,0.0,de,1
-Mo…,Mo…,LOC,0.0,0.0,de,1
 di…,di…,LOC,-0.7,0.0,de,1
+Kykladen-Insel Santorini,Kykladen-Insel Santorini,LOC,0.7,0.0,de,1
 Ägäis-Insel Santorini,Ägäis-Insel Santorini,LOC,0.0,0.0,de,1
 Erdbeben von Santorini,Erdbeben von Santorini,LOC,-0.35,0.0,de,1
 Deutschlands Brücken,Deutschlands Brücken,LOC,0.0,0.0,de,1
 Santorinis,Santorinis,LOC,-0.5,0.5,de,1
 Kommt,Kommt,LOC,0.7,0.0,de,1
 Krater-Insel,Krater-Insel,LOC,-1.0,0.0,de,1
-…,…,LOC,0.0,0.0,de,1
-Landesumweltamt Sachsen,Landesumweltamt Sachsen,LOC,0.0,0.0,de,1
-Beben am Samstag,Beben am Samstag,LOC,0.0,0.0,de,1
-Obersteiermark,Obersteiermark,LOC,0.0,0.0,de,1
-Forschend,Forschend,LOC,0.0,0.0,de,1
-Japaner,Japaner,LOC,0.0,0.0,de,1
+Schlimmes,Schlimmes,LOC,-1.0,0.0,de,1
+Atem,Atem,LOC,0.7,0.0,de,1
+Kykladen-Insel,Kykladen-Insel,LOC,0.0,1.0,de,1
+Äg,Äg,LOC,0.0,0.0,de,1
+Beliebte Insel,Beliebte Insel,LOC,0.7,0.0,de,1
+Vulkan,Vulkan,LOC,1.0,0.0,de,1
+Einwoh,Einwoh,LOC,0.0,0.0,de,1
 Stelzen-Autobahn,Stelzen-Autobahn,LOC,0.0,1.0,de,1
+China,China,LOC,0.6999999999999998,0.0,de,1
 Kobe,Kobe,LOC,0.0,0.0,de,1
 Raluca Nicola,Raluca Nicola,LOC,0.7,0.0,de,1
 Unterg,Unterg,LOC,-1.0,0.0,de,1
@@ -302,16 +309,21 @@ Fichtelgebirge,Fichtelgebirge,LOC,0.0,1.0,de,1
 Erdbeben im Fichtelgebirge,Erdbeben im Fichtelgebirge,LOC,0.0,0.0,de,1
 TSMC-Fabriken,TSMC-Fabriken,LOC,0.0,0.0,de,1
 Pacific Palisades,Pacific Palisades,LOC,0.0,0.0,de,1
+Obersteiermark,Obersteiermark,LOC,0.0,0.0,de,1
 Unzmarkt-Frauenburg,Unzmarkt-Frauenburg,LOC,0.0,0.0,de,1
-Elbezone,Elbezone,LOC,0.0,0.0,de,1
 Bezirk Murtal,Bezirk Murtal,LOC,0.0,0.0,de,1
 Unzmarkt,Unzmarkt,LOC,-0.85,0.0,de,1
-China,China,LOC,0.6999999999999998,0.0,de,1
 Silicon Valley,Silicon Valley,LOC,0.0,0.0,de,1
+Boden-Boden-Raketen,Boden-Boden-Raketen,LOC,0.0,0.0,de,1
 Hotelbrand,Hotelbrand,LOC,0.0,0.0,de,1
 Türken,Türken,LOC,0.0,1.0,de,1
 Grand Kartalkaya Hotel,Grand Kartalkaya Hotel,LOC,0.0,0.0,de,1
 Union,Union,LOC,0.0,0.0,de,1
 Erdbeben bei Dresden,Erdbeben bei Dresden,LOC,0.7,0.0,de,1
 Leichtes Erdbeben bei Dresden,Leichtes Erdbeben bei Dresden,LOC,0.0,0.0,de,1
-Oberland,Oberland,LOC,0.0,0.0,de,1
+Elbezone,Elbezone,LOC,0.0,0.0,de,1
+Beben am Samstag,Beben am Samstag,LOC,0.0,0.0,de,1
+Landesumweltamt Sachsen,Landesumweltamt Sachsen,LOC,0.0,0.0,de,1
+…,…,LOC,0.0,0.0,de,1
+Katastrophen-Einsätze,Katastrophen-Einsätze,LOC,0.0,0.0,de,1
+Phlegräischen Felder,Phlegräischen Felder,LOC,0.0,1.0,de,1
