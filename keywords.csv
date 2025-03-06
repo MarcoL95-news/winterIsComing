@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.25065823097226736
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.2506582309722673
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.2327724230372602
-'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.2325349899427931
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.2319758203675577
+'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.2298828387241014
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.222165808224474
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.2180698261764357
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.2148348151278761
