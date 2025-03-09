@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1615778849585789
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.1567896125034505
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.1541189293809831
-'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.11387554577223494
-'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.1013681698649836
+'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.1138755457722349
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0961626067483673
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0915286305286606
+'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.08616294438523606
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0850622765375773
