@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.21322077044481721
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.2011097272499703
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1959359631599814
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.1838097128586946
+'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1824377748780946
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.1711653783372696
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.1701207698944204
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.1621124561921823
