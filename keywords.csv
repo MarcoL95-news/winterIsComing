@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.1511567603711523
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.138091277214792
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.1309386216067303
-'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.1261053114745134
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.1248583745046962
+'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.10718951475333638
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0975442889063996
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.09464828750609616
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0946482875060961
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0915286305286606
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.086162944385236
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0726029650569407
