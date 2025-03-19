@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.1248583745046962
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.1071895147533363
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0975442889063996
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.08045104438018168
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0779493509493615
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.0732385027274506
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0726029650569407
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0700325388756953
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.06838338772315436
