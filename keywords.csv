@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.1333356309137792
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.1328025302904068
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.1309386216067303
-'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.1284832463154794
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1273707371883736
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.1248583745046962
+'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.10921075936815748
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.1071895147533363
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0835127055704396
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0779493509493615
