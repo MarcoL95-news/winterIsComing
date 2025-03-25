@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1336039715994233
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.1333356309137792
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.1328025302904068
-'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.1309386216067303
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.12955938585684768
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.1295593858568476
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1273707371883736
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.1248583745046962
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.1172537623488516
+'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.11279797836572077
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.1092107593681574
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.1071895147533363
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1041164985872289
