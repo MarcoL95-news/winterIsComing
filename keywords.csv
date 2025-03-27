@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0928291454629337
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0835127055704396
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0779493509493615
-'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.052914818220583
+'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.044977595487495546
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0433946465245363
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.041995947985482
-'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.03837724307762948
+'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0383772430776294
