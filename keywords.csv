@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.1625678969970722
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.1426893816864044
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.1396535360392214
-'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.12355931933813533
-'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.1143906060337429
+'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1235593193381353
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,2,0.1139392378897161
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.1104255079783204
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.1050781030739109
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1041164985872289
+'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.09783207512868146
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0664069633069572
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0637049465321151
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0433946465245363
