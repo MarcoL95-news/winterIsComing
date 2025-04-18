@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.1677122277229726
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,2,0.1664355592322426
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.1560243248191706
-'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.15455986402283878
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.1466638570576573
+'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.14542822351032197
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.1396535360392214
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1235593193381353
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,2,0.1139392378897161
