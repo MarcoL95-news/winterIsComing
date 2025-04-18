@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.2295133575883131
-'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1908822803959916
+'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.19447442060932013
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,3,0.1847221348524186
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,3,0.1796150672846826
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,3,0.1781616986144286
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,2,0.1664355592322426
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.1560243248191706
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.1466638570576573
-'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.14542822351032197
+'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1454282235103219
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.1396535360392214
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1235593193381353
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,2,0.1139392378897161
