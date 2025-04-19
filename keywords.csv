@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,3,0.1710013016196968
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,2,0.1691617117815723
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.1677122277229726
+'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.1669149984990087
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,2,0.1664355592322426
-'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,3,0.16093508836771886
+'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,3,0.1609350883677188
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.1560243248191706
-'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.1466638570576573
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1454282235103219
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.1396535360392214
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1235593193381353
