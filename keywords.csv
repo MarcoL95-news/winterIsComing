@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.1396535360392214
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1331210095292281
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1235593193381353
-'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.1155028521818507
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,2,0.1139392378897161
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1041164985872289
+'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0996775743545731
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0897664326128242
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.06431379543013918
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0643137954301391
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0567459488109136
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0433946465245363
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0332733760615465
