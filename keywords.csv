@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,2,0.1139392378897161
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1041164985872289
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0897664326128242
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0886315123600543
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.07548680050604616
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0567459488109136
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0433946465245363
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0332733760615465
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.0122559686093819
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.00826792724436559
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0082679272443655
