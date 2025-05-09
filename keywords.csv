@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1327843783763746
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,2,0.1315091964295678
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1271989271907529
-'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.119801056835439
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,2,0.1139392378897161
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.1138930760339577
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.1137496489831109
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1116324769809627
-'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.10007088360749582
+'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.1113272978555777
+'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.1000708836074958
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,2,0.0857974622663551
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.073742219971179
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0467442449482754
