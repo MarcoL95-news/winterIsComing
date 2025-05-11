@@ -2,11 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.1480675465383374
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1327843783763746
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,2,0.1315091964295678
-'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1284841839874442
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.1279681169060515
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1271989271907529
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.1270903472719897
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,3,0.126374858976953
+'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.12325330548023666
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,2,0.1139392378897161
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.1137496489831109
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1116324769809627
