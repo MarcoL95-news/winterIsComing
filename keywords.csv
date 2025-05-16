@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0999462680148002
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0968483672062587
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,2,0.0857974622663551
-'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.08205770261397743
+'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0820577026139774
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0772892995068542
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0731337966564156
-'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0290729311690365
+'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.047190667922252454
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0287068094288594
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0262528764067672
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.0075266967222366
