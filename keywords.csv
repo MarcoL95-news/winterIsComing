@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,2,0.0857974622663551
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0824711271253199
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0820577026139774
-'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.0805849162006548
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0731337966564156
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0727662341406931
+'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.06879770377055658
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0482371182346467
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0471906679222524
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0262528764067672
