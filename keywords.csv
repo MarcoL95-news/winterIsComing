@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,3,0.1489061389391254
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1413877554338183
-'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1346060325329661
+'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.12845981674393028
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.1182608793701437
-'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.11093584982813431
+'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1109358498281343
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.1083664411239486
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.10741953013041
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1069668704316931
