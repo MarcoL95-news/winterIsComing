@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0535229822768252
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0411515654994497
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0402620827339145
-'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.016594344898305823
+'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0165943448983058
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0066489835374461
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.0039289827308619
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0004435446131935
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.000377012921214475
