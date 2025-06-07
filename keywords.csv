@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.0914571106108485
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0708505330565219
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0706984878692528
-'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0698990622218808
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0673223678302448
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0621637271579532
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0621513290195891
+'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.05956421788859868
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.058478153204973
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0535229822768252
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0411515654994497
