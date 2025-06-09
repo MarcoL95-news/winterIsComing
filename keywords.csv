@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1864653983708508
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.1658292412147727
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1108389240674402
-'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.11041360573428234
+'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1104136057342823
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.107585422633518
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.0948932398035649
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.0914571106108485
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0343727853238273
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0141051931635599
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0048038906058047
-'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.0039289827308619
+'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.003339635321232615
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0003770129212144
