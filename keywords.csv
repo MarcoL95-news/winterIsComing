@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0352788606745322
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.034774859812448
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0251118651464652
-'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0086623517515712
+'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0073629989888355195
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0034708109626938
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.0020509535416519
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0002723918355773
