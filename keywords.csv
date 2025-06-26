@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.0948932398035649
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.0843683004455057
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0673223678302448
+'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.06580679022422704
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0605437596888648
-'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.058478153204973
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0528391680842602
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0453093757166531
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0390753951950061
