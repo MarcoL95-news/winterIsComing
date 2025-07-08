@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.2220242202402696
-'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.15326114054034295
+'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.13147208945929145
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1280825059708311
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.1186657141746762
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.0808092688330301
