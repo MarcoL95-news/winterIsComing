@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0285095007783918
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0224646159252667
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0213450853744954
-'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.018813847773721575
+'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0188138477737215
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0027769515021864
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0015400172628303
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.0007735161348031
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0001672826360238
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.00014219024062023
