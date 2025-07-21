@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0686878785080755
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0680835408394387
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0663248551487737
-'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.06194424445989446
+'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0619442444598944
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0605437596888648
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.0436019588964533
-'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0362830357946866
+'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.03114061042548361
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0275823759847842
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0219015288992469
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0202744474410061
