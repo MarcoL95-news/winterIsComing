@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0583210547135228
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.052062255735535
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.0436019588964533
-'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.03510003046737943
-'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0311406104254836
+'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0351000304673794
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0275823759847842
+'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.02676954886166106
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0219015288992469
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0202744474410061
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0190949235364766
