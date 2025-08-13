@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0633350692980475
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0500229415064943
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0305153546784139
-'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.019928266649006526
+'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0199282666490065
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.01989605455255
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0189163295643598
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0188004768285373
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0137960822551043
-'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0120040992640366
+'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.01095355937443111
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0108810687764294
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0014484493259172
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,0.0006803471826535
