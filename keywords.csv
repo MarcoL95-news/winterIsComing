@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.2258373474118006
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1817103518197982
-'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1573091967825337
+'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1568467354469718
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,2,0.1416384000086181
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,2,0.0998422667604832
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,3,0.0980042913060061
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.0963430444845056
-'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.08664065415477112
+'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.0866406541547711
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.0838342316441565
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0799933797909227
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.065734911280569
