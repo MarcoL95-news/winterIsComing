@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.4784429036222401
-'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,3,0.23661987498986423
+'erdbebensicher',de,Mitigation,#9e3215,#802d16,2,0.4974265430789041
+'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,3,0.2366198749898642
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.2190863370389532
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1663682125695638
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,2,0.1422131360453867
