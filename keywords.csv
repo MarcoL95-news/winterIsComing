@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.1233206685298376
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.1208813306385787
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1153100975791558
+'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.09959582685409334
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,2,0.0989370117947853
-'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.0894906416770846
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0848662417464107
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0805495231105288
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.0736455010315554
