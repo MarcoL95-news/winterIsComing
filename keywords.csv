@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.2048021045049624
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1905388257015695
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.1800986973002724
-'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,3,0.17796439073439377
+'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,3,0.16264450653599935
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.157232644110337
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1248489008768221
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.1208813306385787
