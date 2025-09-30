@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.20196982296957297
+'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.2019698229695729
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1941121338612489
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,3,0.157615757222266
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.1172159137953861
@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.1043992960427918
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.1038477660611283
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1026840686619311
-'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0981041519142606
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0846566628259792
+'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.08398858912712151
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0805495231105288
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0629896367619815
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0573870987680384
