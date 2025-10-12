@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1792668319529676
+'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.14902353458025336
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1375706330868743
-'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,3,0.13485311794926583
-'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.1297922524473569
+'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,3,0.1348531179492658
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.1258546003861438
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.1045630882554247
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.1043992960427918
