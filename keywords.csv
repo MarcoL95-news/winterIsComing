@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1183810602594029
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.1146255402568759
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1079967632007212
-'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.1043992960427918
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1038530734816977
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.0996236468592162
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0984268575575629
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.0956210523809724
+'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.08873940163637303
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0644661869330044
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0608092683943452
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0536912062476842
