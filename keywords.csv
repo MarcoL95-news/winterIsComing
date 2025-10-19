@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.20144511137409804
+'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.201445111374098
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,2,0.1693897216099077
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.163870661151959
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1553114037503888
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0608092683943452
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0536912062476842
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0248984726539071
-'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0138162334737413
+'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.011743798452680105
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0021608245112258
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0002435438757413
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,9.717559009978e-05
