@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,2,0.1888816636822903
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,2,0.1693897216099077
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1553114037503888
-'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1474048054476694
+'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.15297206235779173
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.1203038730205276
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1183810602594029
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.1146255402568759
