@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0373444919526771
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0188217297424478
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.009982228684778
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0018213157779565102
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.001698133411263025
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0001495663826895
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,5.967795927002739e-05
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,1.2764935798788444e-06
