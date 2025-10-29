@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.2284783770642252
-'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1605648855372706
+'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.16550149094197414
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.1605494741299467
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.1439812933684215
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.1207137031636671
