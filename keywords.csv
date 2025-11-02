@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1079967632007212
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.1045815399586844
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1044294349697758
-'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1030241412204924
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0984268575575629
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.097684659373769
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.0974321292183445
+'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.08757068503741854
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.075428491390917
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0644661869330044
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0457875403105315
